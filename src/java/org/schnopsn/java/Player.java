@@ -89,7 +89,7 @@ public class Player
         {
             this.cards = cards;
             this.cards.get(3).setOpen(false);
-            this.cards.get(3).setOpen(false);
+            this.cards.get(4).setOpen(false);
         }
     }
 
